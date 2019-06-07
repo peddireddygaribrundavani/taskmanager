@@ -14,3 +14,7 @@ body,
 .left {
     background-color: yellow;
 }
+
+p {
+    color: green;
+}
